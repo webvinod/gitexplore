@@ -6,3 +6,5 @@ assets/videos/
 *.mp4
 !app.js
 DS_Store
+*.php
+*.py
