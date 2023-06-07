@@ -6,3 +6,6 @@ three function - I have added a useless function.
 Added a code for doing logout.
 
 New chat function is added.
+
+
+Adding a feature by x method.
