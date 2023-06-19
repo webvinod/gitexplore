@@ -4,3 +4,5 @@ I am the new function.
 simple design is used in this function.
 
 new login link Added
+new chat page added.
+
